@@ -8,7 +8,7 @@ This measuring device consists of a wall mounted bat that will scream when the l
 Taking into account the many kinds of pollution that are making our lives more difficult and driving us towards extinction, I was particularly interested in light pollution. **It is a very visible one, but rather unseen.** I used to go to the countryside for Christmas when I was a kid. And every year, that night I was able to see thousands of stars. Back then I thought it was part of the magic of Santa Claus, sledges and reindeers. As I grew up, I learnt that in the city, the lights that keeps us safe at night in the streets are also the reason why we can’t distinguish many constellations anymore. Now all we can see when we look up in a big city is a very slow but frequent shooting star, a.k.a. Airplanes.
 
 <p style="align-center">
-  <img src="https://www.darksky.org/wp-content/uploads/2016/04/WorldNightMap_2012-700px-366px.png" align="middle" width="100%" />
+  <img src="https://www.darksky.org/wp-content/uploads/2016/04/WorldNightMap_2012-700px-366px.png" align="center" width="50%" />
 </p>
 <p style="align-center"> <img src="https://github.com/karihigh/s3_post-natural/blob/master/lighting_fixtures.jpg?raw=true" align="middle" width="100%" /> 
 </p>
